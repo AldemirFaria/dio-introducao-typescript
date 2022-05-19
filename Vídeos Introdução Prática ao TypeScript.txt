@@ -1,0 +1,87 @@
+Vídeos Introdução Prática ao TypeScript
+
+
+Apresentação do conteúdo
+https://www.youtube.com/watch?v=SaK31PM0Tfg
+
+O que é Typescript e preparação inicial com VSCode
+https://www.youtube.com/watch?v=PtnRzH02EHk
+
+Criando uma aplicação simples de exemplo com JS
+https://www.youtube.com/watch?v=_tcB2Hjecr0
+
+Recriando a mesma aplicação simples com TS
+https://www.youtube.com/watch?v=rZWZw_U_3i0
+
+Por que usar o TS?
+https://www.youtube.com/watch?v=eKtK0m7OcDM
+
+Features do TS - Configuração básica e repositório
+https://www.youtube.com/watch?v=ddvG3XDb1ks
+
+Relação entre tipos de variáveis
+https://www.youtube.com/watch?v=-xCTfWaWe-s
+
+Lidando com objetos, enum e interface
+https://www.youtube.com/watch?v=8mFfywgu1Gc
+
+Sobre o tipo de variável any
+https://www.youtube.com/watch?v=k_t1fQPzETo
+
+Definição de tipos de variaveis personalizadas
+https://www.youtube.com/watch?v=-8RPwACIxXI
+
+Definindo o tipo de retorno de uma função
+https://www.youtube.com/watch?v=d8gz1UVDN2o
+
+Quando usar um tipo void em funções
+https://www.youtube.com/watch?v=bT8I295sjvw
+
+Incluindo callback em funções
+https://www.youtube.com/watch?v=EYdkTeZR5tg
+
+Any está de volta e sobre unknown
+https://www.youtube.com/watch?v=VGKf7O_UXQA
+
+Como funciona o tipo never e o comando throw
+https://www.youtube.com/watch?v=zoqo7UB4Rjs
+
+Breve revisão sobre os tipos apresentados
+https://www.youtube.com/watch?v=ehVwaWIBKEc
+
+tsconfig.json - target
+https://www.youtube.com/watch?v=DWl608XuPMQ
+
+tsconfig.json - lib
+https://www.youtube.com/watch?v=u8Cc7fH1M9s
+
+tsconfig.json - outDir e rootDir
+https://www.youtube.com/watch?v=u5SxcTFNg24
+
+tsconfig.json - nolmplicitAny e strictNullChecks
+https://www.youtube.com/watch?v=uYR3oVo6eOo
+
+Breve revisão do tsconfig.json
+https://www.youtube.com/watch?v=9ZcaYmAqKCg
+
+Dúvidas e comentários - Parte 1
+https://www.youtube.com/watch?v=sEV5NWel824
+
+Comentários sobre os desafios propostos
+https://www.youtube.com/watch?v=4LJCf_lYC5M
+
+Dúvidas e comentários finais
+https://www.youtube.com/watch?v=eTL5rYysMsI
+
+Github
+https://github.com/lira1705/mentoria-typescript
+
+
+
+
+
+
+
+
+
+
